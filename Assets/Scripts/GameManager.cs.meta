@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: fe8c085d05297f74eaac55db959a6970
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyScript: {instanceID: 0}
+  - nextBtn: {instanceID: 0}
+  - rotateBtn: {instanceID: 0}
+  - replayBtn: {instanceID: 0}
+  - topText: {instanceID: 0}
+  - playerShipText: {instanceID: 0}
+  - enemyShipText: {instanceID: 0}
+  - TimerText: {instanceID: 0}
+  - TimerNumber: {instanceID: 0}
+  - StartText: {instanceID: 0}
+  - lvl1Btn: {instanceID: 0}
+  - lvl2Btn: {instanceID: 0}
+  - lvl3Btn: {instanceID: 0}
+  - Title: {instanceID: 0}
+  - missilePrefab: {instanceID: 0}
+  - enemyMissilePrefab: {fileID: 1070225657215313480, guid: c0b648fdc18c93a42ac819a326517f07, type: 3}
+  - firePrefab: {instanceID: 0}
+  - woodDock: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
